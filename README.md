@@ -13,10 +13,10 @@ testing this readme
 <h2 align="center">Linguagens e tecnologias</h2>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,cs,c,html,css,js,mysql,git&theme=light"/>
+      <img src="https://skillicons.dev/icons?i=python,cs,c,html,css,js,mysql,git,github&theme=light"/>
     </a>
   </p>
 
 
 
-- ♟ No momento esotu aprendendo ... seila nao tenho tempo nem pra respirar
+- ♟
